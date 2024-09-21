@@ -1,5 +1,5 @@
 <h1 align="center">Linkedin Clone ✨</h1>
-About This Course:
+About This project:
 
 -   🚀 Project Setup
 -   🗄️ MongoDB Integration
